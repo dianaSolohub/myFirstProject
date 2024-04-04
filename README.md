@@ -1,1 +1,1 @@
-# myFirstProject
+# myFirstProject"### Мета створення програмного продукту" 
