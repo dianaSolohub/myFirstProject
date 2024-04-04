@@ -1,1 +1,1 @@
-# myFirstProject
+# myFirstProject"### Короткий опис потреб споживача" 
